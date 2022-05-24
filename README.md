@@ -2,6 +2,8 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=🤍%20Hi%20🤍&desc=I'm%20Rowoon&descAlignY=67&descAlign=50&fontSize=90)
   
+  ![IMG_1910](https://user-images.githubusercontent.com/74223246/170025395-a26ba33b-ba8f-4d9b-b14c-553ff8bb96c3.GIF)
+  
   I am **Lee Rowoon** who wants to be a happy **iOS developer** from South Korea 👩🏻‍💻💗 
   
   <br> 
